@@ -1,0 +1,5 @@
+{
+  "name": "Multi-App Workspace",
+  "description": "A workspace dashboard to run and view multiple web applications simultaneously in a single screen.",
+  "requestFramePermissions": []
+}
